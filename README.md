@@ -12,4 +12,4 @@ You will also see any lint errors in the console.
 
 ## Deployment
 
-This app is deployed at https://stoic-kilby-4b39bb.netlify.app/
+This app is deployed at https://piano-sample-app-react.netlify.app/
